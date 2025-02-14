@@ -1,7 +1,8 @@
 ## Hey! Saudações ☕🖖
 ---
 
-Estudante e desenvolvedora backend com foco em C# e Unity3D. Apaixonada por tecnologia, busco aprimorar minhas habilidades em desenvolvimento de sistemas e criação de jogos. Sempre em busca de novos desafios e aprendizado contínuo
+Apaixonada por tecnologia, busco aprimorar minhas habilidades em desenvolvimento de sistemas e criação de jogos 👾
+Sempre em busca de novos desafios e aprendizado contínuo 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
