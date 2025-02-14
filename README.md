@@ -7,6 +7,7 @@ Sempre em busca de novos desafios e aprendizado contínuo
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".net" height="30" width="40" src="https://camo.githubusercontent.com/f4c52b575a890c7e67c6541271fc5733506088d19c77ffde6bab3e18e7948536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt=".net" height="30" width="40" src="https://camo.githubusercontent.com/2449c5a2427e05c09b843029cff7898df305c5697bbe64c7c12f1ccdc99c2705/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
   
 </div>
   
